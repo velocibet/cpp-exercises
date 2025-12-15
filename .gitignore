@@ -1,0 +1,13 @@
+# Windows 실행 파일
+*.exe
+
+# Visual Studio 관련 임시 파일
+*.obj
+*.pdb
+*.idb
+*.log
+*.user
+*.suo
+
+# 빌드 폴더
+/build/
